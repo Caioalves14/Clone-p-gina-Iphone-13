@@ -124,15 +124,15 @@ header nav {
     align-self: center;
 }
 
-#main-content #product-iamge {
+#main-content #product-image {
     max-width: 1000px;
     margin: 3rem auto;
     opacity: 1;
-    transition: .5s;
+    transition: 0.5s;
 }
 
-#main-content #product-iamge.changing {
-    opacity: 0.5s;
+#main-content #product-image.changing {
+    opacity: 0.5;
 }
 
 #image-picker {
